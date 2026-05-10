@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+groq
+notion-client==2.2.1
+python-dotenv
+pydantic[email]
